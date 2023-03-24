@@ -1,0 +1,19 @@
+.titulo1{
+    color: blue;
+
+}
+.titulo2{
+    color: red;
+}
+
+.titulo3
+{
+    color: green;
+}
+
+body {
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif; 
+    margin-top: 15%;
+    margin-left: 40%;
+}

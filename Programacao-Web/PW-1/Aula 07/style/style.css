@@ -1,0 +1,15 @@
+body {
+margin: auto;
+  width: 50%;
+  border: 3px solid rgb(0, 41, 128);
+  padding: 10px;
+  text-align: center;
+
+  background-image: url(../img/nezukogun.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+input{
+    border: 3px solid rgb(0, 41, 128);
+}
